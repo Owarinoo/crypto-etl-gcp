@@ -3,7 +3,7 @@ Ce projet extrait les données des cryptomonnaies via **CoinGecko API**, les tra
 Ensuite, les données sont visualisées avec **Looker Studio**.
 
 ## 📂 Structure du projet
-- `etl_bigquery_loader.py` → Extraction et transformation des données et Chargement des données dans BigQuery
+- `etl_bigquery_loader.ipynb` → Extraction et transformation des données et Chargement des données dans BigQuery
 - `Analyse_du_Marché_des_Cryptos.pdf` → Screenshots du Looker Studio
 - `crypto_example.csv` → exemple d'un csv contenant les données des cryptos 
 
